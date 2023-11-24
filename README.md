@@ -1,5 +1,5 @@
 # Projeto com README
-Um preojeto de teste com um arquivo README 😎😎😎
+Um projeto de teste com um arquivo README 😎😎😎
 
 [<img src="./tela.gif" alt="gif da tela inicial do projeto xyz">]
 
@@ -10,7 +10,7 @@ Um preojeto de teste com um arquivo README 😎😎😎
 
 ## Como Utilizar
 
-- Clone o projeto 
+1 Clone o projeto 
 ```
 
 - git clone <url>
